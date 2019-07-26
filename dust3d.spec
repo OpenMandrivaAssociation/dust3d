@@ -13,6 +13,10 @@ BuildRequires:	cmake(Qt5Gui)
 BuildRequires:	cmake(Qt5Network)
 BuildRequires:	pkgconfig(libdrm)
 BuildRequires:	pkgconfig(libglvnd)
+BuildRequires:	qt5-linguist-tools
+BuildRequires:	boost-devel
+BuildRequires:	gmp-devel
+BuildRequires:	mpfr-devel
 
 %description
 Dust3D is a brand new 3D modeling software. It helps you create a 3D watertight model in seconds. Use it to speed up your character modeling in game making, 3D printing, and so on.
