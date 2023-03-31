@@ -1,7 +1,7 @@
 Summary:	Dust3D 3D modeling software
 Name:		dust3d
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	MIT
 Url:		https://dust3d.org/
 Source0:	https://github.com/huxingyi/dust3d/archive/dust3d-%{version}-beta.21.tar.gz
